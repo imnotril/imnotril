@@ -1,6 +1,6 @@
 <!-- Main Readme -->
 <div id="header" align="center">
-    <a href="#"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/header.png"></a>
+    <a href="#"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/header_img.png"></a>
 </div>
 <div id="content">
     <div id="title" align="center">
