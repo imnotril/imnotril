@@ -25,14 +25,14 @@
         </p>
     </div>
     <div id="social">
-        <h4>Social media</h4>
         <a href=""><img align="right" src="https://github-readme-stats.vercel.app/api?username=imnotril&show_icons=true&theme=rose_pine"></a>
-        <ul>
-            <li><a href="https://twitter.com/imnotril_dev"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/twitter.svg" alt="Twitter"></a></li>
-            <li><a href="https://stackoverflow.com/users/20775902"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/stackoverflow.svg" alt="Stack overflow"></a></li>
-            <li><a href="https://discord.com/users/1031713816414785546"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/discord.svg" alt="Discord"></a></li>
-            <li><a href="mailto:imnotril+ghcontact@proton.me"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/protonmail.svg" alt="Mailto"></a></li>
-        </ul>
+        <h4>Social media</h4>
+        <p>
+            <a href="https://twitter.com/imnotril_dev"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/twitter.svg" alt="Twitter"></a><br>
+            <a href="https://stackoverflow.com/users/20775902"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/stackoverflow.svg" alt="Stack overflow"></a><br>
+            <a href="https://discord.com/users/1031713816414785546"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/discord.svg" alt="Discord"></a><br>
+            <a href="mailto:imnotril+ghcontact@proton.me"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/protonmail.svg" alt="Mailto"></a><br>
+        </p>
     </div>
 </div>
 <div id="footer">
