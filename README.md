@@ -2,7 +2,7 @@
 <div id="header">
     <a href=""><img align="right" src="https://github.com/imnotril/imnotril/blob/main/Profile/badge_pfp.png", width="60"></a>
     <h3>
-        Hi there, thanks for stopping by<br>
+        Hi there, thanks for stopping by. 
         Grab a cup of tea/coffee and look around
     </h3>
 </div>
