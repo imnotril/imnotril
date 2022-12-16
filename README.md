@@ -21,7 +21,8 @@
     <div id="languages">
         <h4>What i know</h4>
         <p>
-            I am fluent in TypeScript and JavaScript (deno & npm), I have a good handle on Rust but I am still learning, I know some Python but I don't use it often so I might make mistakes, and I have a basic understanding of other languages but I only experiment with them occasionally.
+            I am fluent in TypeScript and JavaScript (deno & node), I have a good handle on Rust but I am still learning, I know some Python but I don't use it often so I might make mistakes, and I have a basic understanding of other languages but I only experiment with them occasionally.
+            And obviously HTML & CSS, but I'm not a big fan of the front-end.
         </p>
     </div>
     <div id="social">
