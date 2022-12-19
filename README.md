@@ -13,7 +13,7 @@
             I am a student who discovered programming thanks to an old friend who recommended me to try linux, and little by little I got more into this world until I ended up learning about programming in a self-taught way, and I am still learning more, currently focused on programming with rust and its low level.
         </p>
         <ul>
-            <li>I am still figuring out what I want to do in the future, but I am interested in fields like cryptography, data science, AI, and game development</li>
+            <li>I am still figuring out what I want to do in the future, but I am interested in fields like cryptography, data science, AI, and <strike>game development</strike> software development</li>
             <li>I will include in my profile projects related to my interests, but they are not perfect, as I am still learning. However, they may be useful for someone</li>
             <li>Feel free to correct or improve my code, as long as it doesn't involve style changes</li>
         </ul>
