@@ -33,6 +33,7 @@
             <a href="https://stackoverflow.com/users/20775902"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/stackoverflow.svg" alt="Stack overflow"></a><br>
             <a href="https://discord.com/users/1031713816414785546"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/discord.svg" alt="Discord"></a><br>
             <a href="mailto:imnotril+ghcontact@proton.me"><img src="https://github.com/imnotril/imnotril/blob/main/Profile/protonmail.svg" alt="Mailto"></a><br>
+            <!-- TODO: add reddit / medium / etc... accounts -->
         </p>
     </div>
 </div>
