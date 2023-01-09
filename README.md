@@ -42,6 +42,6 @@
 </div>
 <div id="footer">
     <sub>
-        <code>Text translated with Deepl Translator</code>
+        Text translated with Deepl Translator
     </sub>
 </div>
