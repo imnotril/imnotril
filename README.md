@@ -42,7 +42,6 @@
 </div>
 <div id="footer">
     <sub>
-        <code>Text translated with Deepl Translator</code><br>
-        <code>Pam (imnotril) 2022</code>
+        <code>Text translated with Deepl Translator</code>
     </sub>
 </div>
